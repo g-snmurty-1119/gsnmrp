@@ -39,7 +39,7 @@ cacheSolve <- function(x, ...) {
 	
 	#getting the original matrix
 	mat <- x$getMatrix()
-	mat
+	
 	nr <- nrow(mat)
 	nc <- ncol(mat)
 
